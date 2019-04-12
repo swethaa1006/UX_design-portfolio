@@ -1,0 +1,51 @@
+h1{
+  margin: 10%;
+font-size: 250%;
+position: relative;
+}
+h6{
+  margin: 10%;
+  margin-top: -10%;
+  /* margin-bottom: : 130%; */
+  font-size: 100%;
+  position: relative;
+  letter-spacing: 1.2px;
+  line-height: 130%;
+}
+img{
+  width: 60%;
+  position: relative;
+  margin-left: 25%;
+  margin-top:-2%;
+}
+div.rotate_90{
+  margin: 18%;
+  margin-top: -1%;
+  font-size: 20px;
+  position: absolute;
+  transform: rotate(90deg);
+}
+
+h2{
+  font-size: 180%;
+  position: relative;
+  margin-left: 26%;
+  margin-top: 42%;
+}
+p{
+  font-size: 130%;
+  position: relative;
+  margin-left: 26%;
+  margin-right: 12%;
+  line-height: 145%;
+}
+br{
+      line-height: 180%;
+}
+
+img.img_all{
+  position: relative;
+  margin-top: 1%;
+  width: 80%;
+  margin-left: 15%;
+}
